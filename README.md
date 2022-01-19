@@ -1,5 +1,5 @@
 # FoodDeliveryApp
-## This app is based on React Native.
+## This app is about the Food Delivery and it is based on React Native.
 
 #### Screenshot: ``` Home Screen ```
 
