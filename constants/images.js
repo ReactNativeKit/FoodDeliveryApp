@@ -60,4 +60,4 @@ export default {
     sushi,
     teh_c_peng,
     tomato_pasta,
-}
+};

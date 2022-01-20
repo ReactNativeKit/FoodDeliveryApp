@@ -9,7 +9,7 @@ import {
     FlatList
 } from "react-native";
 
-import { icons, images, SIZES, COLORS, FONTS } from '../constants'
+import { icons, images, SIZES, COLORS, FONTS } from '../constants';
 
 const Home = ({ navigation }) => {
 
